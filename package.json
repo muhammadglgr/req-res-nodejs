@@ -1,0 +1,15 @@
+{
+  "name": "sesi1",
+  "version": "1.0.0",
+  "description": "sesi1 playground node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mgr",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "rupiah-format": "^1.0.0"
+  }
+}
